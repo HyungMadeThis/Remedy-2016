@@ -1,4 +1,4 @@
-# Remedy_2016
+# Remedy-2016
 
 Archiving an old tool project from 2016 in case I decide to revisit it in the future.
 
